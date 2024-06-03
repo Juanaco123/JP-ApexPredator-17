@@ -15,6 +15,7 @@
 		5662A6F92BDC33DF00AFFB45 /* ApexPredator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5662A6F82BDC33DF00AFFB45 /* ApexPredator.swift */; };
 		5662A6FB2BDD392A00AFFB45 /* Predators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5662A6FA2BDD392A00AFFB45 /* Predators.swift */; };
 		56C187B22C0A4F06005E98A7 /* PredatorDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C187B12C0A4F06005E98A7 /* PredatorDetail.swift */; };
+		56C187B42C0E680B005E98A7 /* PredatorMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C187B32C0E680B005E98A7 /* PredatorMap.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		5662A6F82BDC33DF00AFFB45 /* ApexPredator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApexPredator.swift; sourceTree = "<group>"; };
 		5662A6FA2BDD392A00AFFB45 /* Predators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Predators.swift; sourceTree = "<group>"; };
 		56C187B12C0A4F06005E98A7 /* PredatorDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorDetail.swift; sourceTree = "<group>"; };
+		56C187B32C0E680B005E98A7 /* PredatorMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorMap.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				5662A6FA2BDD392A00AFFB45 /* Predators.swift */,
 				563EFEBC2BDC2D2000397CC4 /* ContentView.swift */,
 				56C187B12C0A4F06005E98A7 /* PredatorDetail.swift */,
+				56C187B32C0E680B005E98A7 /* PredatorMap.swift */,
 				5662A6F62BDC2EBE00AFFB45 /* jpapexpredators.json */,
 				563EFEBE2BDC2D2200397CC4 /* Assets.xcassets */,
 				563EFEC02BDC2D2200397CC4 /* Preview Content */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5662A6F92BDC33DF00AFFB45 /* ApexPredator.swift in Sources */,
+				56C187B42C0E680B005E98A7 /* PredatorMap.swift in Sources */,
 				563EFEBD2BDC2D2000397CC4 /* ContentView.swift in Sources */,
 				56C187B22C0A4F06005E98A7 /* PredatorDetail.swift in Sources */,
 				5662A6FB2BDD392A00AFFB45 /* Predators.swift in Sources */,
